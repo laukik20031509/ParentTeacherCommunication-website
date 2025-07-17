@@ -12,5 +12,5 @@ Welcome to , a smart and secure platform designed to bridge the communication ga
 
 ⚡ Responsive UI – A smooth and intuitive experience on all devices, thanks to the power of React.
 
-🎯 Our mission is to make parent-teacher interaction seamless, proactive, and transparent—so that every student gets the attention and support they need.
+🎯 My mission is to make parent-teacher interaction seamless, proactive, and transparent—so that every student gets the attention and support they need.
 
