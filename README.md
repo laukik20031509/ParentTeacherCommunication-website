@@ -1,12 +1,16 @@
-# React + Vite
+Welcome to , a smart and secure platform designed to bridge the communication gap between teachers and parents. Built with a modern React frontend and a robust Spring Boot backend, our system ensures timely and meaningful updates about students' progress, attendance, and classroom activities.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧑‍🏫👨‍👩‍👧‍👦 Key Features:
 
-Currently, two official plugins are available:
+🔔 Real-Time Updates – Teachers can send instant updates about student performance, assignments, attendance, and events directly to parents.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💬 Direct Messaging – Enables private, secure chat between teachers and parents for personalized communication and support.
 
-## Expanding the ESLint configuration
+🗓️ Event & Schedule Notifications – Keep parents informed of exams, meetings, and school events without delays.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛡️ Secure & Role-Based Access – Built with Spring Boot’s security features to ensure data privacy and controlled access for teachers and parents.
+
+⚡ Responsive UI – A smooth and intuitive experience on all devices, thanks to the power of React.
+
+🎯 Our mission is to make parent-teacher interaction seamless, proactive, and transparent—so that every student gets the attention and support they need.
+
